@@ -1,4 +1,4 @@
-Welcome to HelpNow, your reliable companion in times of crises and emergencies. Developed using the Flutter framework, HelpNow is a robust and intuitive rescue app designed to connect victims and rescuers, providing timely assistance and support. With its user-friendly interface and location-based functionality, HelpNow ensures quick access to relevant services when they matter the most.
+Welcome to HelpNow, your reliable companion in times of crises and emergencies. Being developed using the Flutter framework, HelpNow is a robust and intuitive rescue app designed to connect victims and rescuers, providing timely assistance and support. With its user-friendly interface and location-based functionality, HelpNow ensures quick access to relevant services when they matter the most.
 
 Key Features:
 
