@@ -18,4 +18,5 @@ Key Features:
 
 8. Post Management: Users have full control over their own posts and can delete them at any time and from anywhere. This feature allows users to maintain their privacy and manage their requests effectively.
 
-HelpNow is your go-to rescue app that empowers individuals and communities during emergencies. Join us today and be part of a network dedicated to saving lives and making a positive i
+HelpNow is your go-to rescue app that empowers individuals and communities during emergencies. Join us today and be part of a network dedicated to saving lives and making a positive impact.
+
