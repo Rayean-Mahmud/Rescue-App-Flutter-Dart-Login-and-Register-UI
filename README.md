@@ -10,7 +10,7 @@ Key Features:
 
 4. FAQ and Guide: HelpNow includes informative sections that guide users on what to do and what not to do during disaster periods. This invaluable resource helps users stay informed, make informed decisions, and prioritize their safety.
 
-5. Map Page (Under Development): The app's map page is being developed to display markers for people who have requested help, providing a visual representation of affected areas and the distribution of rescue requests. This feature enhances situational awareness and aids in efficient resource allocation.
+5. Map Page: The app's map page is being developed to display markers for people who have requested help, providing a visual representation of affected areas and the distribution of rescue requests. This feature enhances situational awareness and aids in efficient resource allocation.
 
 6. Contacts Page: Users can easily access important contact numbers and details of volunteers registered within a 60-kilometer radius. This contact directory allows users to quickly reach out for assistance or offer support.
 
